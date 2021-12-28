@@ -10,4 +10,5 @@
 * Export orders to a CSV table.
 * If the dialog is open, a "backward" swipe now doesn't jump to the previous page. Instead, it closes the dialog.
 * TradingView updated.
+* Now in the OTP confirmation dialog, the request is automatically sent after entering 6 characters.
 * A lot of fixes and improvements.
