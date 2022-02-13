@@ -1,5 +1,12 @@
 # Terminal changelog
 
+## 3.283.22 > 3.283.100
+
+* Changed scheme for calc user colors from HSL to LCH
+* Improved UI components: improved accessibility, added ripple effects and animations. Vibration on the app, etc.
+* Added new filters to the tables
+* Implemented push-notifications (but not yet included in the bundle).
+
 ## 3.282.267 > 3.283.22
 
 * Added a customizable terminal mode.
